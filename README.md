@@ -6,6 +6,7 @@ Welcome to the official documentation for **HIVint**, a computational method dev
 
 ---
 ## citation
+Zenodo:-(https://doi.org/10.5281/zenodo.20140343)
 
 ## Background
 
